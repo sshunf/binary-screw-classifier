@@ -1,0 +1,9 @@
+torch
+torchvision
+matplotlib
+sklearn
+os
+zipfile
+gdown
+numpy
+torchmetrics
